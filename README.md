@@ -1,8 +1,8 @@
 # Morphoe
 
-Morphogenesis of olfactory epithelium.
+Morphogenesis of olfactory placode.
 
-Python code to simulate migration of early olfactory neurons along the telencephalon.
+Python code to simulate migration of early olfactory cells along the telencephalon.
 The matrix (telencephalon) is represented as an immobile and uncrossable horseshoe-like barrier (paraboloid).
 Cells are distributed along the telencephalon and follow a chemotaxis gradient (mimicking Cxcl12a signalling) to converge in two clusters.
 
