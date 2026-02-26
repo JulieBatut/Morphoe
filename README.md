@@ -33,7 +33,7 @@ python path_to_Morphoe_src_folder/eon.py
 
 ## References
 
-Refer to our initial publication [Zilliox, Letort et al. 2025](https://www.cell.com/iscience/fulltext/S2589-0042(25)01659-1) for more details about the model. Refer to our protocol (Demont, et al. 2025) for more details about its usage.
+Refer to our initial publication [Zilliox, Letort et al. 2025](https://www.cell.com/iscience/fulltext/S2589-0042(25)01659-1) for more details about the model. Refer to our protocol (Demont, et al. 2026) for more details about its usage.
 If you use this code or part of this code, please cite our publication or/and this repository.
 
 ## License
